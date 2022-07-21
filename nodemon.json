@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "sllow",
+    "DB_PASSWORD": "s9421703b",
+    "DB_NAME": "BackendNodeJSBoilerPlate",
+    "JWT_KEY": "SUPER_SECRET"
+  }
+}
